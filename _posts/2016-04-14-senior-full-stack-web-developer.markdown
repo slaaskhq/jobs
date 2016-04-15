@@ -48,4 +48,4 @@ I had to take some creative liberties with the last line for it to make sense an
 
 ### Location:
 
-- Lille, Nord-Pas-de-Calais-Picardie, France: [https://en.wikipedia.org/wiki/Lille](https://en.wikipedia.org/wiki/Lillen).
+- Lille, Nord-Pas-de-Calais-Picardie, France: [https://en.wikipedia.org/wiki/LilleNN](https://en.wikipedia.org/wiki/Lille).
