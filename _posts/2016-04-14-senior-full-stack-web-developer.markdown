@@ -45,3 +45,7 @@ I had to take some creative liberties with the last line for it to make sense an
 - Server Management.
 - UI/UX Design.
 - Can sing in tune.
+
+### Location:
+
+- Lille, Nord-Pas-de-Calais-Picardie, France: [https://en.wikipedia.org/wiki/Lille](https://en.wikipedia.org/wiki/Lille).
