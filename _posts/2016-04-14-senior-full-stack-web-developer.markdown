@@ -48,4 +48,4 @@ I had to take some creative liberties with the last line for it to make sense an
 
 ### Location:
 
-- [Lille, Nord-Pas-de-Calais-Picardie, France](https://en.wikipedia.org/wiki/Lille).
+- [Lille, Nord-Pas-de-Calais-Picardie, France](https://en.wikipedia.org/wiki/Lille) near [EuraTechnologies](https://paris.numa.co/Actualites/EuraTechnologies-a-huge-place-a-soul-and-a-true-source-of-inspiration-for-Le-Camping)
