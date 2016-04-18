@@ -28,10 +28,10 @@ Just footsteps from the Euratechnologies tech hub, in a friendly, relaxed and st
 If you're considering applying, keep in mind we're strongly considering candidates who:
 
 - Are motivated by the project itself, as well as the entrepreneurial spirit in general!
-- Keep a large collection of hats ; ) We're looking for those who thrive in a multifaceted position and are able to react swiftly to unexpected shifts in responsibility.
+- Keep a large collection of hats ;) We're looking for those who thrive in a multifaceted position and are able to react swiftly to unexpected shifts in responsibility.
 - Are both responsible and rigorous: earn the respect and freedom you deserve as an employee by showing you've got things under control
 I had to take some creative liberties with the last line for it to make sense and be impactful. Does that work for you?
-- Can hold their own in the English language. Due to our international customer base, good English skills will definitely come in handy :simple_smile:
+- Can hold their own in the English language. Due to our international customer base, good English skills will definitely come in handy :wink:
 
 ### The Full Monty:
 
