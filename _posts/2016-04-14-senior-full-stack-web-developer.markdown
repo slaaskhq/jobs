@@ -30,7 +30,7 @@ You'll probably love working with us if you:
 - are motivated by the project itself,
 - have an entrepreneurial spirit
 - are looking for a more stimulating and constantly changing work environment
-- love hats ; ) that is, thrive in a flexible working environment prone to sudden and frequent shifts in responsibility
+- love hats :wink: that is, thrive in a flexible working environment prone to sudden and frequent shifts in responsibility
 - can hold your own in the English language* 
 
 *Due to our international customer base, English will definitely come in handy :wink:
@@ -51,3 +51,4 @@ You'll probably love working with us if you:
 ### Location:
 
 - [Lille, Nord-Pas-de-Calais-Picardie, France](https://en.wikipedia.org/wiki/Lille) near [EuraTechnologies](https://paris.numa.co/Actualites/EuraTechnologies-a-huge-place-a-soul-and-a-true-source-of-inspiration-for-Le-Camping)
+- [Paris, France] near [Gare du Nord](https://en.wikipedia.org/wiki/Gare_du_Nord)
