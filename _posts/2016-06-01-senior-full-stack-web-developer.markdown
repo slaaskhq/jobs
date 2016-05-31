@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Senior Full Stack Web Developer"
-date:   2016-04-14 16:57:25
+date:   2016-06-01 07:15:00
 tags:
 image:
 author_name: "Rémi Delhaye"
