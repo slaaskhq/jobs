@@ -9,29 +9,31 @@ author_image: https://slaask.com/team/remi.jpg
 author_bio: Slaask, Inc. CTO
 ---
 
-#### Slaask is looking for a web developer to participate in the improvement of its platform!
+#### Looking to do something entirely different with the web development skills you've worked hard to obtain? Slaask.com is on the lookout for a web developer to reach new levels of awesomeness with!
 
 --------------------------------------------
 
 ### But first, Slaask — what is it?
-It's a startup that was launched one year ago by two chill guys on a mission to strengthen the bond between business and customer thanks to a novel solution: the full livechat experience housed directly inside of Slack. That's it. Why didn't somebody think of this before?
+It's a startup that was launched one year ago by two pretty chill guys on a mission to strengthen the bond between business and customer. Their idea? To create the full experience of live chat conducted directly from within Slack.
 
-*If you don't know what Slack is, definitely check them out: [http://slack.com](http://slack.com). You'll see for yourself, it's magic.*
+*If you don't know what Slack is, definitely give them a look: [http://slack.com](http://slack.com). You'll see for yourself, it's magic.*
 
 ### Opportunity:
-You'll be a part of a tight team consisting of between three and four other developers. You'll be working alongside one of the two co-founders and be directly involved in important company matters. We've got plenty of projects in the pipeline, and it will be all hands on deck for the unforeseeable future. This includes: frontend, backend (Ruby on Rails, NodeJS, Golang), and if you're UI/UX-savvy there's no telling what cool missions we might be throwing your way.
+You'll be a part of a tight team consisting of between two and three other developers. You'll be working alongside one of the two co-founders and be directly involved in important company matters. We've got loads of projects in the pipeline and it will be all hands on deck going forward. Pertinent skills include frontend, backend (Ruby on Rails, NodeJS, golang), and if you're UI/UX-savvy all the better.
 
 ### Environment:
-Just footsteps from the Euratechnologies tech hub, in a friendly, relaxed and stimulating atmosphere. It's an ideal spot if the startup atmosphere appeals to you.
+Just footsteps from the [Euratechnologies](http://www.dailymotion.com/video/xlcd2l_visite-virtuelle-euratechnologies_tech) tech hub, in a friendly, relaxed and stimulating atmosphere. It's an ideal spot if the midsize startup atmosphere appeals to you.
 
 ### Conditions:
-If you're considering applying, keep in mind we're strongly considering candidates who:
+You'll probably love working with us if you:
 
-- Are motivated by the project itself, as well as the entrepreneurial spirit in general!
-- Keep a large collection of hats ;) We're looking for those who thrive in a multifaceted position and are able to react swiftly to unexpected shifts in responsibility.
-- Are both responsible and rigorous: earn the respect and freedom you deserve as an employee by showing you've got things under control
-I had to take some creative liberties with the last line for it to make sense and be impactful. Does that work for you?
-- Can hold their own in the English language. Due to our international customer base, good English skills will definitely come in handy :wink:
+- are motivated by the project itself,
+- have an entrepreneurial spirit
+- are looking for a more stimulating and constantly changing work environment
+- love hats ; ) that is, thrive in a flexible working environment prone to sudden and frequent shifts in responsibility
+- can hold your own in the English language* 
+
+*Due to our international customer base, English will definitely come in handy :wink:
 
 ### The Full Monty:
 
@@ -40,7 +42,7 @@ I had to take some creative liberties with the last line for it to make sense an
 - Integration (Html/Slim, CSS/Sass, especially Javascript!).
 - In short, as they say: you're "full stack" :wink:
 
-### Icing on the Cake:
+### Additional Useful Skills:
 
 - Server Management.
 - UI/UX Design.
