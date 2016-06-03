@@ -31,7 +31,7 @@ You'll probably love working with us if you:
 - have an entrepreneurial spirit
 - are looking for a more stimulating and constantly changing work environment
 - love hats :wink: that is, thrive in a flexible working environment prone to sudden and frequent shifts in responsibility
-- can hold your own in the English language* 
+- can hold your own in the English language*
 
 *Due to our international customer base, English will definitely come in handy :wink:
 
